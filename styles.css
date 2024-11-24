@@ -7,6 +7,7 @@ body {
     flex-direction: column;
     justify-content: center;
    width: fit-content;
+   overflow-x: hidden ;
    align-items: center;
    align-content: center;
 }
@@ -439,7 +440,7 @@ padding: 20px;
 
   @media (max-width: 1000px) {
 .smartphone{
-    width: 40%;
+    width: 75%;
 }
 
   }
