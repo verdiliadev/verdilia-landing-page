@@ -484,9 +484,7 @@ padding: 20px;
   }
 
   @media (max-width: 1000px) {
-.smartphone{
-    width: 50%;
-}
+
 
 
 header.fixed-menu nav ul li a {
