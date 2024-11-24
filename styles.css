@@ -485,7 +485,7 @@ padding: 20px;
 
   @media (max-width: 1000px) {
 .smartphone{
-    width: 75%;
+    width: 50%;
 }
 
 
@@ -496,7 +496,7 @@ header.fixed-menu nav ul li a {
     display: block;
     transition: background-color 0.3s;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 28px;
+    font-size: 24px;
 }
   }
   
