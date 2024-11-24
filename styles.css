@@ -293,6 +293,39 @@ padding: 20px;
 
 }
 
+.name1{
+    width: 100%;
+    opacity: 0; /* Nascondi inizialmente */
+    transform: scale(0.8); /* Riduci inizialmente */
+    transition: all 0.5s ease-out;
+    font-size: 32px;
+    padding: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name2{
+    width: 100%;
+    opacity: 0; /* Nascondi inizialmente */
+    transform: scale(0.8); /* Riduci inizialmente */
+    transition: all 0.5s ease-out;
+    font-size: 32px;
+    padding: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name3{
+    width: 100%;
+    opacity: 0; /* Nascondi inizialmente */
+    transform: scale(0.8); /* Riduci inizialmente */
+    transition: all 0.5s ease-out;
+    font-size: 32px;
+    padding: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .profile:hover{
     background-color: #4EA72E;
 }
@@ -314,6 +347,18 @@ padding: 20px;
     color: white;
     padding: 40px;
 
+}
+
+.profile:hover .name1{
+    color: white;
+}
+
+.profile:hover .name2{
+    color: white;
+}
+
+.profile:hover .name3{
+    color: white;
 }
 
 .contacts{

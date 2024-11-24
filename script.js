@@ -13,6 +13,9 @@ const profile_image3 = document.querySelector('.profile_image3');
 const profile_description1 = document.querySelector('.profile_description1');
 const profile_description2 = document.querySelector('.profile_description2');
 const profile_description3 = document.querySelector('.profile_description3');
+const name1 = document.querySelector('.name1');
+const name2 = document.querySelector('.name2');
+const name3 = document.querySelector('.name3');
 // Imposta l'osservatore per l'elemento
 const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
@@ -41,4 +44,6 @@ observer.observe(profile_image3);
 observer.observe(profile_description1);
 observer.observe(profile_description2);
 observer.observe(profile_description3);
-
+observer.observe(name1);
+observer.observe(name2);
+observer.observe(name3);
