@@ -483,18 +483,23 @@ padding: 20px;
     }
   }
 
-  @media (max-width: 1000px) {
-
-
-
-header.fixed-menu nav ul li a {
-    color: black;
-    text-decoration: none;
-    padding: 30px 35px;
-    display: block;
-    transition: background-color 0.3s;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 24px;
+  @media (max-width: 1200px) {
+.smartphone{
+    width: 50%;
 }
+
+
+
   }
   
+  @media (max-width: 1000px) {
+    header.fixed-menu nav ul li a {
+        color: black;
+        text-decoration: none;
+        padding: 30px 35px;
+        display: block;
+        transition: background-color 0.3s;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 24px;
+    }
+  }
