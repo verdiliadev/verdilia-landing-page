@@ -453,18 +453,20 @@ padding: 20px;
     }
 
     .text_block1{
-        width: 70%;
+        width: 90%;
     }
     .text_block2{
-        width: 70%;
+        width: 90%;
     }
     .text_block3{
-        width: 70%;
+        width: 90%;
     }
 
     .description{
         text-align: center;
     }
+
+    
 
     .about{
         display: flex;
