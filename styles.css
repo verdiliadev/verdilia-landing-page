@@ -196,11 +196,12 @@ text-align: justify;
 }
 
 .description_analysis{
-    font-size: 32px;
+    font-size: 28px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 letter-spacing: 0.1rem;
 text-align: justify;
 color: #2c5e19;
+font-weight: 600;
 }
 
 .description_point{
