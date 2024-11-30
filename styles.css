@@ -231,7 +231,7 @@ align-items: center;
 align-content: center;
 justify-content: center;
 flex-direction: column;
-padding: 20px;
+padding: 50px;
 }
 
 .profile_image1{
@@ -239,6 +239,7 @@ padding: 20px;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 0.5s ease-out;
+    border-radius: 25px;
 }
 
 .profile_image2{
@@ -246,6 +247,8 @@ padding: 20px;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 1s ease-out;
+    border-radius: 25px;
+
 }
 
 .profile_image3{
@@ -253,6 +256,8 @@ padding: 20px;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 1.5s ease-out;
+    border-radius: 25px;
+
 }
 
 .profile_description1{
@@ -260,9 +265,9 @@ padding: 20px;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 0.5s ease-out;
-    font-size: 28px;
+    font-size: 24px;
     padding: 30px;
-    text-align: justify;
+    text-align: start;
     height: 300px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -273,9 +278,9 @@ padding: 20px;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 0.5s ease-out;
-    font-size: 28px;
+    font-size: 24px;
     padding: 30px;
-    text-align: justify;
+    text-align: start;
     height: 300px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -286,9 +291,9 @@ padding: 20px;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 0.5s ease-out;
-    font-size: 28px;
+    font-size: 24px;
     padding: 30px;
-    text-align: justify;
+    text-align: start;
     height: 300px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
