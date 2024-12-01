@@ -399,15 +399,16 @@ padding: 50px;
 }
 
 .contact_image{
-    padding: 30px;
+    padding: 60px;
     align-content: center;
     justify-content: center;
     align-items: center;
+    
 }
 
 .contact_image:hover{
     background-color: rgb(71, 71, 71);
-    padding: 30px;
+    padding: 90px;
 }
 
 .contact_image:hover .image_svg{
