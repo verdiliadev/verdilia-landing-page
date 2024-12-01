@@ -93,7 +93,8 @@ transition: all 1.5s ease-out;
 
 
 .smartphone{
-    width: 10%;
+    margin-top: 100px;
+    width: 15%;
     opacity: 0; /* Nascondi inizialmente */
     transform: scale(0.8); /* Riduci inizialmente */
     transition: all 0.5s ease-out;
