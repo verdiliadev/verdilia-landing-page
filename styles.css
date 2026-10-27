@@ -12,8 +12,9 @@
     --radius: 18px;
     --shadow: 0 10px 30px rgba(22, 53, 31, 0.10);
     --header-h: 72px;
-    --font-head: 'Fraunces', Georgia, serif;
-    --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    /* Font di sistema: nessuna richiesta a server esterni */
+    --font-head: 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', 'URW Palladio L', Georgia, serif;
+    --font-body: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* ========== Base ========== */
